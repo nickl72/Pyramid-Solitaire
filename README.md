@@ -29,7 +29,7 @@ This is a pyramid solitare game. Cards are dealt onto the screen in a pyramid sh
 
 -Undo button will undo the last move
 
-  *undo button will undo all previous moves
+  * undo button will undo all previous moves
 
 -Players can choose from a library of card designs
 
