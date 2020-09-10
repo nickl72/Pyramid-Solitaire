@@ -8,19 +8,19 @@ This is a pyramid solitare game. Cards are dealt onto the screen in a pyramid sh
 ![imageAlt](https://i.imgur.com/Kvf5eKl.png)
 
 # MVP: 
--Cards are dealt and shown to player in payramid shape (not overlapping). 
+- Cards are dealt and shown to player in payramid shape (not overlapping). 
 
--One new card is shown when deck is clicked
+- One new card is shown when deck is clicked
 
--Selected cards appear differently
+- Selected cards appear differently
 
--When player clicks 2 flipped cards, both cards are removed from play.
+- When player clicks 2 flipped cards, both cards are removed from play.
 
--New game button restarts the game
+- New game button restarts the game
 
--Game displays message when player wins
+- Game displays message when player wins
 
--game instructions are displayed
+- game instructions are displayed
 
 
 # Post-MVP:
@@ -31,11 +31,11 @@ This is a pyramid solitare game. Cards are dealt onto the screen in a pyramid sh
 
   * undo button will undo all previous moves
 
--Players can choose from a library of card designs
+- Players can choose from a library of card designs
 
--card motions are animated
+- card motions are animated
 
--game has a numerical scoring system
+- game has a numerical scoring system
 
--game ends when no more moves are available
+- game ends when no more moves are available
 
