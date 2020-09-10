@@ -1,3 +1,13 @@
 body {
     background: beige;
 }
+h1 {
+    text-align: center;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+img {
+    max-width: 75px;
+}
