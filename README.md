@@ -25,9 +25,9 @@ This is a pyramid solitare game. Cards are dealt onto the screen in a pyramid sh
 
 # Post-MVP:
 
--Cards at lower row of cards overlaps upper row of cards
+- Cards at lower row of cards overlaps upper row of cards
 
--Undo button will undo the last move
+- Undo button will undo the last move
 
   * undo button will undo all previous moves
 
