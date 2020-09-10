@@ -1,7 +1,7 @@
-## Pharo's Solitaire
+# Pharo's Solitaire
 Pyramid Solitaire game
 
-##
+#
 
 This is a pyramid solitare game. Cards are dealt onto the screen in a pyramid shape with 7 rows, each increasing in size by 1 card. The remaining cards will be flipped 1 at a time by a player to be available for matching. When a player clicks 2 available face up cards adding up to 13, those cards are removed from play. A player wins when they match all the cards on the table, and loses when no more moves are avilable.
 
