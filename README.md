@@ -4,7 +4,7 @@ Pyramid Solitaire game
 This is a pyramid solitare game. Cards are dealt onto the screen in a pyramid shape with 7 rows, each increasing in size by 1 card. The remaining cards will be flipped 1 at a time by a user to be available for matching. A user wins when they match all the cards on the table, and loses when no more moves are avilable.
 
 Wirerame:
-!(wireframe) (https://i.imgur.com/Kvf5eKl.png)
+!(imageAlt) [https://i.imgur.com/Kvf5eKl.png]
 
 MVP: 
 -Cards are dealt and shown to user in payramid shape (not overlapping). 
