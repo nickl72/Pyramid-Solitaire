@@ -8,6 +8,6 @@ div {
     display: flex;
     justify-content: center;
 }
-img {
+img, .image {
     max-width: 75px;
 }
