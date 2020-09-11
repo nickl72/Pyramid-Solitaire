@@ -1,5 +1,5 @@
 body {
-    background: beige;
+    background-image: linear-gradient(to right, blue, green, blue);
 }
 h1 {
     text-align: center;
@@ -19,7 +19,7 @@ img, .image {
     margin: 5px
 }
 .selected {
-    filter: brightness(75%);
+    filter: brightness(60%);
     cursor: pointer;
 }
 .available {
