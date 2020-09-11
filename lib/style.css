@@ -13,4 +13,8 @@ img, .image {
 }
 .selected {
     filter: brightness(75%);
+    cursor: pointer;
+}
+.available {
+    cursor: pointer;
 }
