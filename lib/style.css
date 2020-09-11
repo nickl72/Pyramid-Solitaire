@@ -25,3 +25,10 @@ img, .image {
 .available {
     cursor: pointer;
 }
+p {
+    max-width: 300px;
+}
+main {
+    display: flex;
+    
+}
