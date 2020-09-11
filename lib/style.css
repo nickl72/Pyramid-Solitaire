@@ -12,7 +12,11 @@ img, .image {
     width: 75px;
 }
 .deck {
-    width: 150px;
+    width: 50%;
+    margin: 25px;
+}
+.deck img { 
+    margin: 5px
 }
 .selected {
     filter: brightness(75%);
