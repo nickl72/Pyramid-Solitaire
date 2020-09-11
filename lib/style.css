@@ -12,8 +12,10 @@ img, .image {
     width: 75px;
 }
 .deck {
-    width: 50%;
-    margin: 25px;
+    width: 40%;
+    margin-top: 25px;
+    align-self: flex-start;
+    justify-self: flex-end;
 }
 .deck img { 
     margin: 5px
@@ -30,5 +32,26 @@ p {
 }
 main {
     display: flex;
-    
+
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 60%;
+    height: 100vh;
+    flex-grow: 10;
+}
+.info, .buttons {
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.info {
+    align-items: center;
+    text-align: center;
+}
+.buttons {
+    align-items: flex-start;
 }
