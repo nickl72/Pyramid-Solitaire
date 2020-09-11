@@ -11,6 +11,9 @@ div {
 img, .image {
     width: 75px;
 }
+.deck {
+    width: 150px;
+}
 .selected {
     filter: brightness(75%);
     cursor: pointer;
