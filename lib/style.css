@@ -11,3 +11,6 @@ div {
 img, .image {
     width: 75px;
 }
+.selected {
+    filter: brightness(75%);
+}
