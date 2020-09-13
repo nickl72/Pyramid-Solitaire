@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, blue, green, blue);
+    background-image: linear-gradient(to right, yellow, green, rgb(51, 51, 255));
 }
 h1 {
     text-align: center;
@@ -57,4 +57,7 @@ section {
 }
 #unflipped {
     background: grey;
+}
+button {
+    min-width: 50px;
 }
