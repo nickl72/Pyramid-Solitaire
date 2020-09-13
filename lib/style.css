@@ -59,5 +59,6 @@ section {
     background: grey;
 }
 button {
-    min-width: 50px;
+    margin: 10px 0 10px 0;
+    min-width: 100px;
 }
