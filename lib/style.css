@@ -1,5 +1,7 @@
+
 body {
-    background-image: linear-gradient(to right, yellow, green, rgb(51, 51, 255));
+    background-size: cover;
+    background-image: url('./images/background-images/standard.jpg');
 }
 h1 {
     text-align: center;
@@ -36,6 +38,7 @@ main {
 }
 
 section {
+    text-align: center;
     display: flex;
     flex-direction: column;
     flex-basis: 60%;
@@ -62,3 +65,7 @@ button {
     margin: 10px 0 10px 0;
     min-width: 100px;
 }
+.hidden {
+    visibility: hidden;
+}
+
