@@ -7,6 +7,13 @@ Pyramid Solitaire game
 
 This is a web based pyramid solitare game. Cards are dealt onto the screen in a pyramid shape with 7 rows, each increasing in size by 1 card. The remaining cards will be flipped 1 at a time by a player to be available for matching. When a player clicks 2 available face up cards adding up to 13, those cards are removed from play. A player wins when they match all the cards on the table, and loses when no more moves are avilable.
 
+## Features:
+
+Player card selections are highlighted
+Player can undo previous moves
+Using the change appearance button, players can choose from a selection of backgrounds
+Players can start a new game at any time
+
 ## Wireframe:
 
 ![imageAlt](https://i.imgur.com/Kvf5eKl.png)
@@ -42,4 +49,5 @@ This is a web based pyramid solitare game. Cards are dealt onto the screen in a 
 - game has a numerical scoring system
 
 - game ends when no more moves are available
+
 
