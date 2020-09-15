@@ -1,6 +1,7 @@
 # Pharo's Solitaire
 Pyramid Solitaire game
-https://nickl72.github.io/Pyramid-Solitaire/
+
+[Pharo's Solitaire](https://nickl72.github.io/Pyramid-Solitaire/ "A Pyramid Solitaire Game")
 
 #
 
