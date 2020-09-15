@@ -22,6 +22,11 @@ This is a web based pyramid solitare game. Cards are dealt onto the screen in a 
 
 ## Build Information
 
+### Technology Used
+* javascript: used for DOM manipulation
+* html: used to render the game in the browser
+* css: used to add styling to the game interface
+
 ### Wireframe:
 
 ![imageAlt](https://i.imgur.com/Kvf5eKl.png)
