@@ -11,10 +11,10 @@ This is a web based pyramid solitare game. Cards are dealt onto the screen in a 
 
 ## Features:
 
-*Player card selections are highlighted
-*Player can undo previous moves
-*Using the change appearance button, players can choose from a selection of backgrounds
-*Players can start a new game at any time
+* Player card selections are highlighted
+* Player can undo previous moves
+* Using the change appearance button, players can choose from a selection of backgrounds
+* Players can start a new game at any time
 
 ![Selectable Game Interface](./docs/selected_interface.png)
 
