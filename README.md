@@ -3,15 +3,15 @@ Pyramid Solitaire game
 
 [Pharo's Solitaire](https://nickl72.github.io/Pyramid-Solitaire/ "A Pyramid Solitaire Game")
 
-# Project Description
+## Project Description
 
 This is a web based pyramid solitare game. Cards are dealt onto the screen in a pyramid shape with 7 rows, each increasing in size by 1 card. The remaining cards will be flipped 1 at a time by a player to be available for matching. When a player clicks 2 available face up cards adding up to 13, those cards are removed from play. A player wins when they match all the cards on the table, and loses when no more moves are avilable.
 
-# Wireframe:
+## Wireframe:
 
 ![imageAlt](https://i.imgur.com/Kvf5eKl.png)
 
-# MVP: 
+## MVP: 
 - Cards are dealt and shown to player in payramid shape (not overlapping). 
 
 - One new card is shown when deck is clicked
@@ -27,7 +27,7 @@ This is a web based pyramid solitare game. Cards are dealt onto the screen in a 
 - game instructions are displayed
 
 
-# Post-MVP:
+## Post-MVP:
 
 - Cards at lower row of cards overlaps upper row of cards
 
