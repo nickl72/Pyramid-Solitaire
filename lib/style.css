@@ -69,3 +69,7 @@ button {
 .hidden {
     visibility: hidden;
 }
+.box {
+    display: flex;
+    flex-direction: column;
+}
