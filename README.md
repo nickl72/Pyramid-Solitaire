@@ -16,7 +16,7 @@ This is a web based pyramid solitare game. Cards are dealt onto the screen in a 
 *Using the change appearance button, players can choose from a selection of backgrounds
 *Players can start a new game at any time
 
-![Selectable Game Interface](./docs/Selected_interface.png)
+![Selectable Game Interface](./docs/selected_interface.png)
 
 ## Wireframe:
 
