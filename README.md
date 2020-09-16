@@ -43,7 +43,7 @@ This is a web based pyramid solitare game. Cards are dealt onto the screen in a 
 
 ### Additional Completed Features
 
-* Undo button steps back 1 turn with every iteration
+* Undo button steps back 1 turn with every click until reaching the start of the game
 * Players can choose from a variety of background designs
 
 ### Future Features:
